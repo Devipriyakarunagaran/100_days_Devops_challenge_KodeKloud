@@ -8,10 +8,6 @@
 
 > **Want to start the official challenge?** Use this [KodeKloud link](https://linkly.link/2CeSH) - it helps support this project!
 
-## Challenge Progress
-
-![100%](https://progress-bar.xyz/100)
-
 ## Challenge Completed
 
 **Successfully completed the 100 Days of DevOps Challenge!**
