@@ -1,15 +1,10 @@
-# 🚀 100 Days of DevOps Challenge [KodeKloud]
-
-[![GitHub stars](https://img.shields.io/github/stars/imshakil/100-Days-Of-DevOps-Challenge-KodeKloud?style=social)](https://github.com/imshakil/100-Days-Of-DevOps-Challenge-KodeKloud/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/imshakil/100-Days-Of-DevOps-Challenge-KodeKloud?style=social)](https://github.com/imshakil/100-Days-Of-DevOps-Challenge-KodeKloud/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/imshakil/100-Days-Of-DevOps-Challenge-KodeKloud)](https://github.com/imshakil/100-Days-Of-DevOps-Challenge-KodeKloud/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+#  100 Days of DevOps Challenge [KodeKloud]
 
 **Complete DevOps learning path with hands-on labs covering Linux, Docker, Kubernetes, Git, Ansible, and more!**
 
 This repository contains comprehensive solutions and detailed explanations for the **100 Days of DevOps Challenge** by KodeKloud. Perfect for beginners and professionals looking to master DevOps tools and practices.
 
-## 🎯 What You'll Learn
+##What You'll Learn
 
 - **Linux Administration** - User management, networking, security
 - **Containerization** - Docker, Docker Compose, container orchestration
@@ -20,7 +15,7 @@ This repository contains comprehensive solutions and detailed explanations for t
 - **Databases** - MySQL, PostgreSQL, MariaDB
 - **Infrastructure as Code** - Terraform, YAML configurations, best practices
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Star this repository** ⭐ to keep track of your progress
 2. **Fork the repo** to create your own copy
@@ -34,21 +29,11 @@ This repository contains comprehensive solutions and detailed explanations for t
 
 ![100%](https://progress-bar.xyz/100)
 
-## 🏆 Challenge Completed
+## Challenge Completed
 
 **Successfully completed the 100 Days of DevOps Challenge!**
 
 ![certificate of completion](./screenshots/certificate-DP.jpg)
-
-### Learning Modules
-
-| Module | Days | Topics Covered | Status |
-|--------|------|----------------|--------|
-| **Linux Fundamentals** | 1-20 | User management, SSH, scripting, networking | ✅ Complete |
-| **Version Control** | 21-34 | Git workflows, branching, hooks | ✅ Complete |
-| **Containerization** | 35-47 | Docker, Docker Compose, networking | ✅ Complete |
-| **Kubernetes** | 48-67 | Pods, deployments, volumes, troubleshooting | ✅ Complete |
-| **CI/CD, IaC, Automation** | 68-100 | Jenkins, Terraform, Ansible | ✅ Complete |
 
 ### Daily Challenges
 
@@ -155,119 +140,3 @@ This repository contains comprehensive solutions and detailed explanations for t
 | 099 | Attach IAM Policy for DynamoDB Access Using Terraform | Iac | [Solution](./days/099.md) |
 | 100 | Create and Configure Alarm Using CloudWatch Using Terraform | Iac | [Solution](./days/100.md) |
 
-## Prerequisites
-
-- **Basic Linux knowledge** - Command line familiarity
-- **Text editor** - vim, nano, or VS Code
-- **Virtual environment** - VirtualBox, VMware, or cloud instances
-- **Git basics** - Version control fundamentals
-- **Networking concepts** - Basic understanding of ports, protocols
-
-## 🛠️ Technologies Covered
-
-### Infrastructure & OS
-
-- **Linux** (CentOS, Ubuntu)
-- **Shell Scripting** (Bash)
-- **System Administration**
-- **Network Configuration**
-
-### Containerization
-
-- **Docker** - Containers, images, networking
-- **Docker Compose** - Multi-container applications
-- **Container Registry** - Image management
-
-### Orchestration
-
-- **Kubernetes** - Pods, deployments, volumes, services, replica set
-- **kubectl** - Cluster management
-- **YAML** - Configuration files
-
-### Version Control
-
-- **Git** - Branching, merging, rebasing
-- **GitHub** - Collaboration workflows
-- **Git Hooks** - Automation
-
-### Configuration Management
-
-- **Ansible** - Automation and configuration
-- **YAML** - Playbooks and inventory
-
-### Web Servers & Databases
-
-- **Nginx** - Web server, load balancer, SSL
-- **Apache** - LAMP stack configuration
-- **MySQL/MariaDB** - Database management
-
-### CI/CD, Automation and Provisioning
-
-- **Terrafor** - IaC tool to manage cloud resources
-- **Jenkins** - CI/CD pipelines for integration and delivery
-- **Ansible Playbook** - Automation resource management
-
-## 🎯 Learning Path
-
-### Week 1-3: Linux Fundamentals
-
-Master user management, permissions, networking, and system administration basics.
-
-### Week 4-5: Version Control
-
-Learn Git workflows, branching strategies, and collaboration techniques.
-
-### Week 6-7: Containerization
-
-Understand Docker concepts, image creation, and container orchestration.
-
-### Week 8-10: Kubernetes
-
-Deploy and manage applications in Kubernetes clusters with advanced patterns.
-
-### Week 10-12: Jenkins, Terraform
-
-Deploy CI/CD pipelines, provisioning infrastructures, and ansible automation.
-
-## 🤝 Contributing
-
-Contributions are welcome! If you think any solution steps would be better, Here's how you can help:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/improvement`)
-3. **Commit** your changes (`git commit -am 'Add new solution'`)
-4. **Push** to the branch (`git push origin feature/improvement`)
-5. **Create** a Pull Request
-
-## 📚 Additional Resources
-
-- [KodeKloud Official Course](https://linkly.link/2CeSH)
-- [Docker Documentation](https://docs.docker.com/)
-- [Kubernetes Documentation](https://kubernetes.io/docs/)
-- [Git Documentation](https://git-scm.com/doc)
-- [Linux Command Reference](https://man7.org/linux/man-pages/)
-
-## ⭐ Show Your Support
-
-If this repository helped you in your DevOps journey:
-
-- **Star** this repository ⭐
-- **Fork** it to create your own version
-- **Share** it with fellow developers
-- **Follow me** for more DevOps content
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Connect With Me
-
-- **GitHub**: [@imshakil](https://github.com/imshakil)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/imshakil)
-- **Medium**: [@imshakil](https://medium.com/@imshakil)
-
----
-
-**Happy Learning!**
-
-> Remember: The best way to learn DevOps is by doing. Start with Day 1 and build your skills progressively!
